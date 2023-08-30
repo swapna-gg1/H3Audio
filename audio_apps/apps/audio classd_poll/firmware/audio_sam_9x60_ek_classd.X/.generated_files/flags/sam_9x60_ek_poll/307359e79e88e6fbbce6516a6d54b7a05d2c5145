@@ -1,0 +1,1 @@
+$(MP_EXTRA_AS_PRE)  -c -mprocessor=$(MP_PROCESSOR_OPTION) -DXPRJ_sam_9x60_ek_poll=$(CND_CONF)    -Wa,--defsym=__MPLAB_BUILD=1$(MP_EXTRA_AS_POST),--gdwarf-2 -mdfp="${DFP_DIR}"C:\Users\c40450\HamonyDevel\audio_apps\apps\audio classd_poll\firmware\src\config\sam_9x60_ek_poll\cstartup.S

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/c40450/HamonyDevel/audio_apps/apps/audio_classd_dma/firmware/src/app.c</file>
+            <file>file:/C:/Users/c40450/HamonyDevel/audio_apps/apps/audio_classd_dma/firmware/src/main.c</file>
+            <file>file:/C:/Users/c40450/HamonyDevel/audio_apps/apps/audio_classd_dma/firmware/src/config/sam_9x60_ek_dma/audio/peripheral/classd/plib_classd.c</file>
+            <file>file:/C:/Users/c40450/HamonyDevel/audio_apps/apps/audio_classd_dma/firmware/src/config/sam_9x60_ek_dma/peripheral/xdmac/plib_xdmac.c</file>
+            <file>file:/C:/Users/c40450/HamonyDevel/audio_apps/apps/audio_classd_dma/firmware/src/packs/SAM9X60_DFP/component/xdmac.h</file>
+            <file>file:/C:/Users/c40450/HamonyDevel/audio_apps/apps/audio_classd_dma/firmware/src/config/sam_9x60_ek_dma/audio/peripheral/classd/plib_classd.h</file>
+            <file>file:/C:/Users/c40450/HamonyDevel/audio_apps/apps/audio_classd_dma/firmware/src/config/sam_9x60_ek_dma/peripheral/xdmac/plib_xdmac.h</file>
+        </group>
+    </open-files>
+</project-private>

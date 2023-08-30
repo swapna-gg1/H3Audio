@@ -1,0 +1,14 @@
+configName: sam_9x60_ek_poll
+folderName: audio_sam_9x60_ek_classd
+format_version: v1.0
+frameworkPath: ..\..\..\..\Harmony3
+processor: SAM9X60
+projectName: audio_classd_sam_9x60_ek
+settings:
+  PackageFilter: audio;audio_apps;azure_rtos;bsp;core;core_apps_sam_9x60;core_apps_sam_a5d2;crypto;csp;csp_apps_sam_9x60;Devices;dev_packs;gfx;gfx_apps_sam_9x60;gfx_apps_sam_a5d2;harmony-services;net;quick_docs;touch;usb
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.8.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: .\dev_packs\Microchip\SAM9X60_DFP\1.7.85\atdf\SAM9X60.atdf

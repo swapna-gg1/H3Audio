@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/sam_9x60_ek_poll/debug/audio_sam_9x60_ek_classd.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>251658240</length>
+      <used>347056</used>
+      <free>251311184</free>
+    </memory>
+  </executable>
+</project>
